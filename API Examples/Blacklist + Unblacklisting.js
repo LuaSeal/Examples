@@ -13,7 +13,7 @@ const postHeaders = {
 
 // Functions
 async function blacklistKey(userKey, body = {}) {
-    const response = await fetch(`http://localhost/api/projects/${projectId}/blacklist`, {
+    const response = await fetch(`https://luaseal.com/api/projects/${projectId}/blacklist`, {
         method: "POST",
         headers: postHeaders,
         body: JSON.stringify({
