@@ -1,5 +1,4 @@
 /*
-    If a exprire value is null (not defined) or is equal to -1 that means it will never expire.
     You can visit https://docs.luaseal.com for information about what each endpoint expects.
 */
 
