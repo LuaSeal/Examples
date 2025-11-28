@@ -1,1 +1,1 @@
-[![LUA SEAL](https://img.shields.io/badge/LUA%20SEAL-Visit%20Website-1e1e1e?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://luaseal.com)
+[![Visit LuaSeal](https://img.shields.io/badge/Visit-LuaSeal.com-CE0000?style=for-the-badge&logo=roblox&logoColor=white)](https://luaseal.com)
