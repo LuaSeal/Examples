@@ -1,7 +1,6 @@
 // Main Repository Link: https://github.com/LuaSeal/LuaSeal-NPM
 
-import LuaSeal from "luaseal";
-//const LuaSeal = require("luaseal");
+const LuaSeal = require("luaseal");
 
 const seal = new LuaSeal("seal_yourApiKeyHere", "yourProjectId");
 
