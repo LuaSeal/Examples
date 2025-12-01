@@ -8,15 +8,16 @@
   local LSL_UserNote: String -- The note connected to the users key, if the key dosen't have a note connected the value will be "Not specified" 
 ]]
 
-print("Welcome {LSL_LinkedDiscordID} to my script!");
-print("You have a total of {LSL_Linked DiscordID} executions thats crazy`);
+print(`Welcome {LSL_LinkedDiscordID} to my script!`);
+print(`You have a total of {LSL_Linked DiscordID} executions thats crazy`);
   
 if LSL_IsUserPremium then
   print("You are a premium user thank you for support us!");
     
   local LSL_DaysLeft = math.floor(LSL_Seconds Left / 86400);
     
-  print("You have {LSL_Seconds Left} seconds left of premium`); print(`AKA {LSL_DaysLeft} days`);
+  print(`You have {LSL_Seconds Left} seconds left of premium`); 
+  print(`AKA {LSL_DaysLeft} days`);
 else
   print("You are a free user and do not have access to the premium features in this script.");
 end
